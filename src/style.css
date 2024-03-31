@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #e14a34;
+  --secondary-color: #ece7db;
+}
+
+.main-container {
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
